@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">APTV</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_channels">频道</string>
+    <string name="nav_favorites">收藏</string>
+    <string name="nav_settings">设置</string>
+    <string name="premium_title">APTV 高级版</string>
+    <string name="premium_adfree">去除广告</string>
+    <string name="premium_lifetime">终身高级版</string>
+    <string name="premium_feature_unlimited">无限频道列表</string>
+    <string name="premium_feature_subtitle">实时字幕识别</string>
+    <string name="premium_feature_translation">字幕翻译</string>
+    <string name="premium_feature_multiscreen">多屏同播</string>
+    <string name="premium_feature_cloud">云端同步</string>
+    <string name="premium_feature_adfree">去除广告</string>
+    <string name="premium_buy_now">立即购买</string>
+    <string name="premium_restore">恢复购买</string>
+    <string name="premium_recommended">推荐</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_add_source">添加播放源</string>
+    <string name="settings_source_url">M3U 源地址</string>
+    <string name="settings_refresh_source">刷新播放源</string>
+    <string name="settings_subtitle">字幕设置</string>
+    <string name="settings_translation">翻译设置</string>
+    <string name="player_empty">请先添加一个频道播放源</string>
+    <string name="player_no_channels">当前播放源暂无频道</string>
+    <string name="player_error">播放出错，请重试</string>
+</resources>
